@@ -18,7 +18,7 @@
 * https://touch.facebook.com/private_sharing/home_view/?entry_point=self_profile_indicator&profile_id=facebook_uid
 
 ### facebook_uid
-* Is the Account ID you are gonna use when you open the Source Code Tab from any Browser.
+* Is the Account ID you are gonna use (as profile_id) when you open the Source Code Tab from any Browser.
 
 ### Note:
 * https://touch.facebook.com/ can be accessed via any Desktop Browser.
