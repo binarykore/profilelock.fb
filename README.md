@@ -16,5 +16,8 @@
 * https://touch.facebook.com/private_sharing/home_view/?entry_point=settings&profile_id=facebook_uid
 * https://touch.facebook.com/private_sharing/home_view/?entry_point=self_profile_indicator&profile_id=facebook_uid
 
+### Note:
+* https://touch.facebook.com/ can be accessed via any Desktop Browser, so use this one instead of https://mbasic.facebook.com/
+
 ### Copyright since ( 2021 )
 ( C ) - [BinaryKorra](https://github.com/binarykorra), 09225205353
