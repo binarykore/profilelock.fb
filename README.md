@@ -5,7 +5,8 @@
 * This will prevent Non-Friend Facebook Users from accessing your Profile.
 
 ### Cons:
-* Soon
+* Does not contradict with Facebook Profile Guard when enabled.
+* Disables the Profile Guard Feature when used.
 
 ### How To:
 * Change your Language to Myanmar (Burmese)
@@ -15,6 +16,7 @@
 ### Reference:
 * https://touch.facebook.com/private_sharing/home_view/?entry_point=settings&profile_id=facebook_uid
 * https://touch.facebook.com/private_sharing/home_view/?entry_point=self_profile_indicator&profile_id=facebook_uid
+* "facebook_uid" is Account ID when you open the Source Code Tab from any Browser.
 
 ### Note:
 * https://touch.facebook.com/ can be accessed via any Desktop Browser, so use this one instead of https://mbasic.facebook.com/ or https://m.facebook.com/
