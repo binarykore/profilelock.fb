@@ -9,7 +9,7 @@
 * Disables the Profile Guard Feature when used.
 
 ### How To:
-* Change your Language to Myanmar (Burmese)
+* Change your Facebook Language to Myanmar (Burmese)
 * https://touch.facebook.com/private_sharing/home_view/?entry_point=settings&profile_id=facebook_uid
 * And click Lock Profile to Private.
 
