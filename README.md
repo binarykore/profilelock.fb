@@ -1,7 +1,7 @@
 ## Facebook Profile Lock (2021)
 
 ### Pros:
-* This will Lock your Profile to Private.
+* This will Lock your Profile from Public Timeline to Private Timeline.
 * This will prevent Non-Friend Facebook Users from accessing your Profile.
 
 ### Cons:
@@ -17,7 +17,7 @@
 * https://touch.facebook.com/private_sharing/home_view/?entry_point=self_profile_indicator&profile_id=facebook_uid
 
 ### Note:
-* https://touch.facebook.com/ can be accessed via any Desktop Browser, so use this one instead of https://mbasic.facebook.com/
+* https://touch.facebook.com/ can be accessed via any Desktop Browser, so use this one instead of https://mbasic.facebook.com/ or https://m.facebook.com/
 
 ### Copyright since ( 2021 )
 ( C ) - [BinaryKorra](https://github.com/binarykorra), 09225205353
